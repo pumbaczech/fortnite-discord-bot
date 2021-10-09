@@ -1,5 +1,7 @@
 # fortnite-discord-bot
 You need a discord api.
+# level up system
+ The bot have level up system.
 # bot-commands
 ```
 !help
@@ -28,3 +30,6 @@ pip install python-math
 pip install aiosqlite
 pip install requests
 ```
+
+# my-bot-invite
+https://discord.com/api/oauth2/authorize?client_id=884420323280314368&permissions=8&scope=bot
