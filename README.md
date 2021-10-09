@@ -1,5 +1,5 @@
 # fortnite-discord-bot
-
+You need discord api.
 # bot-commands
 ```
 !help
